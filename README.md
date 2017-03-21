@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World
 ## Hello World Github Example 
 
@@ -13,3 +14,7 @@ By the end of this class I will know:
 ### What is Hello World?
 (https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 A "Hello, World!" program is a computer program that outputs or displays "Hello, World!" to the user. Being a very simple program in most programming languages, it is often used to illustrate the basic syntax of a programming language for a working program.[1] It is often the very first program people write when they are new to the language.
+=======
+# helloworld2
+Hello World Github Example 
+>>>>>>> parent of a4b0694... Update README file
